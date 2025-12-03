@@ -1,0 +1,6 @@
+[submodule "capstone-umich-yifan"]
+	path = capstone-umich-yifan
+	url = https://github.com/LyWangPX/capstone-umich-yifan
+[submodule "ChartPatterns"]
+	path = ChartPatterns
+	url = https://github.com/djl6zjhb/ChartPatterns
