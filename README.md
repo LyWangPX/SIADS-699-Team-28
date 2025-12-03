@@ -1,6 +1,6 @@
-# SIADS-699-Team-09
+# SIADS-699-Team-28
 
-This repository contains the capstone project work for Team 09. The project is divided into two distinct modules, each representing individual contributions to the analysis of stock market data.
+This repository contains the capstone project work for Team 28. The project is divided into two distinct modules, each representing individual contributions to the analysis of stock market data.
 
 **Please Note:** The code for each module operates independently and should be run and viewed separately.
 
