@@ -21,7 +21,7 @@ This repository contains the capstone project work for Team 28. The project is d
 To clone this repository including the submodules, use:
 
 ```bash
-git clone --recursive https://github.com/LyWangPX/SIADS-699-Team-09.git
+git clone --recursive https://github.com/LyWangPX/SIADS-699-Team-28.git
 ```
 
 If you have already cloned the repository without submodules, run:
